@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="kpamber@aludra.usc.edu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/application/config/database.php" />
+            <excludedPath path="/index.php" />
+            <excludedPath path="/application/config/config.php" />
+            <excludedPath path="/application/cache" />
+            <excludedPath path="/images" />
+            <excludedPath path="/js" />
+            <excludedPath path="/system" />
+            <excludedPath path="/.htaccess" />
+            <excludedPath path="/a49b83361437d53c5172a378419a939d5bc8c376" />
+            <excludedPath path="/CI_phpStorm.php" />
+            <excludedPath path="/composer.json" />
+            <excludedPath path="/contributing.md" />
+            <excludedPath path="/DB_active_rec.php" />
+            <excludedPath path="/ea91915c828c58e3aad35fa149207deac4ec7437" />
+            <excludedPath path="/license.txt" />
+            <excludedPath path="/my_models.php" />
+            <excludedPath path="/readme.rst" />
+            <excludedPath path="/application/third_party" />
+            <excludedPath path="/application/logs" />
+            <excludedPath path="/application/libraries" />
+            <excludedPath path="/application/language" />
+            <excludedPath path="/application/hooks" />
+            <excludedPath path="/application/helpers" />
+            <excludedPath path="/application/core" />
+            <excludedPath path="/application/config" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b186e654-05e6-4854-a492-71caab7f066a" name="kpamber@aludra.usc.edu" url="http://cs-server.usc.edu:8083">
+        <fileTransfer host="aludra.usc.edu" port="22" rootFolder="/home/scf-33/kpamber/apache2/htdocs/Assignment4" accessType="SFTP" password="dfe1dfc3dfc4dfcddfdedfc9dfc1df98df99df92df92df9ddf9edf9b" username="kpamber">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
